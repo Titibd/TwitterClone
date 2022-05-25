@@ -5,7 +5,7 @@ To make the project simple, we do not have a sign in/login function.
 So there are no user accounts and follow function.
 Check out [LIVE DEMO here!!](https://twiterclone-titi.herokuapp.com/)
 # Screenshot
-
+![Screenshot 2022-05-24 235559](https://user-images.githubusercontent.com/98930413/170176597-f2a5ca47-6983-41b0-a030-1a67af04f029.png)
 # Tech used
 * Html
 * Css
